@@ -24,4 +24,38 @@ This project explores data on **historical and current carbon emissions** source
 - The cumulative buildup of CO₂ is largely tied to industrialized nations.
 
 ### **3. Emissions Per Capita**  
-- **Qatar** ranks highest
+- **Qatar** ranks highest with **38.8 tons/person**.  
+- **Brunei**: **28.6 tons/person**.  
+- **Bahrain**: **23.3 tons/person**.  
+- Notably, none of the top emitters by volume (China, USA, EU) make the top 10 on a per capita basis, revealing disparities in individual contributions.
+
+### **4. Correlation Between GDP and Emissions**  
+- A strong correlation (**0.79**) exists between high GDP and high per capita emissions, emphasizing the environmental cost of economic wealth.
+
+---
+
+## 🌟 **Conclusion**  
+This analysis highlights the complexities of carbon emissions:  
+- **Today’s major contributors** (China, USA, EU) dominate annual totals, while **historical accountability** shifts the focus heavily toward the USA.  
+- A **per capita lens** unveils inequalities, where smaller, affluent nations lead the way in emissions per person.  
+- Addressing climate change demands a **global yet fair approach**, balancing historical responsibility with sustainable development.  
+
+---
+
+## 📁 **Project Structure**  
+- **`data/`**: Contains raw and cleaned datasets used in the analysis.  
+- **`notebooks/`**: Includes Jupyter notebooks for analysis and visualization.  
+- **`visualizations/`**: Contains charts and graphics generated during the project.  
+- **`report.md`**: Detailed project findings.  
+
+---
+
+## 📈 **Data Source**  
+- [Our World in Data: CO₂ and Greenhouse Gas Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions).
+
+---
+
+## 💻 **Future Scope**  
+- Explore sector-wise emissions (e.g., energy, transportation, agriculture).  
+- Predict future emissions trends using machine learning.  
+- Analyze the effectiveness of carbon reduction policies globally.  
