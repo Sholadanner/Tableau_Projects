@@ -1,15 +1,20 @@
-# 🌍 Carbon Emissions Analysis (1750–2023)  
+# Carbon Emissions Analysis (1750–2023)  
 
 This project explores data on **historical and current carbon emissions** sourced from [Our World in Data](https://ourworldindata.org). By analyzing trends and contributions over time, it sheds light on the role of countries and regions in contributing to global CO₂ emissions.  
 
-## 🛠️ **Project Objective**  
+## **Project Objective**  
 - Identify major contributors to global carbon emissions in 2023.  
 - Compare historical and modern emission trends (1750–2023).  
 - Explore per capita emissions and the relationship between GDP and carbon emissions.  
 
 ---
+## **Dashboard**
 
-## 📊 **Key Insights**  
+Explore the interactive tableau dashboard here [Dashboard](https://public.tableau.com/app/profile/shola.danner/viz/CarbonEmissionMajorContributors/Dashboard1?publish=yes).
+
+---
+
+## **Key Insights**  
 
 ### **1. 2023 Annual CO₂ Emissions**  
 - **China**: **11.9 billion tons** (31.5% of the global total) – the leading emitter.  
@@ -34,7 +39,7 @@ This project explores data on **historical and current carbon emissions** source
 
 ---
 
-## 🌟 **Conclusion**  
+## **Conclusion**  
 This analysis highlights the complexities of carbon emissions:  
 - **Today’s major contributors** (China, USA, EU) dominate annual totals, while **historical accountability** shifts the focus heavily toward the USA.  
 - A **per capita lens** unveils inequalities, where smaller, affluent nations lead the way in emissions per person.  
@@ -42,15 +47,7 @@ This analysis highlights the complexities of carbon emissions:
 
 ---
 
-## 📁 **Project Structure**  
-- **`data/`**: Contains raw and cleaned datasets used in the analysis.  
-- **`notebooks/`**: Includes Jupyter notebooks for analysis and visualization.  
-- **`visualizations/`**: Contains charts and graphics generated during the project.  
-- **`report.md`**: Detailed project findings.  
-
----
-
-## 📈 **Data Source**  
+## **Data Source**  
 - [Our World in Data: CO₂ and Greenhouse Gas Emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions).
 
 ---
